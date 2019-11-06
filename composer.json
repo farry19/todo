@@ -1,0 +1,11 @@
+{
+    "name": "thecodecaster/todolist",
+    "authors": [
+        {
+            "name": "Farrukh Ayyaz",
+            "email": "farrukhayyaz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
